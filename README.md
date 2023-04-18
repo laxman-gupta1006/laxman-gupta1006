@@ -23,17 +23,67 @@
 ## Technologies
 
 As a developer, I'm experienced in a range of technologies, including:
+<div align="center">
+  <table style="width:100%;" border="0px">
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/nolan/64/react-native.png" alt="React Logo" width="64" height="64" />
+        <p>React</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/redux.png" alt="Redux Logo" width="64" height="64" />
+        <p>Redux</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/firebase.png" alt="Firebase Realtime Database Logo" width="64" height="64" />
+        <p>Firebase Realtime Database</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker Logo" width="64" height="64" />
+        <p>Docker</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/django.png" alt="Django Logo" width="64" height="64" />
+        <p>Django</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL Logo" width="64" height="64" />
+        <p>MySQL</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML Logo" width="64" height="64" />
+        <p>HTML</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/kubernetes.png" alt="Kubernetes Logo" width="64" height="64" />
+        <p>Kubernetes</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS Logo" width="64" height="64" />
+        <p>CSS</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript Logo" width="64" height="64" />
+        <p>JavaScript</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python Logo" width="64" height="64" />
+        <p>Python</p>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++ Logo" width="64" height="64" />
+        <p>C++</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- React
-- Redux
-- Firebase Realtime Database
-- Django
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- C++
-- Python
+
+
 
 I'm always excited to tackle new challenges and push my skills to the next level.
 
