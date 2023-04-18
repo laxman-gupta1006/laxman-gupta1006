@@ -84,7 +84,6 @@ As a developer, I'm experienced in a range of technologies, including:
 
 
 
-
 I'm always excited to tackle new challenges and push my skills to the next level.
 
 ## 🌱 Currently, I'm focused on three key areas:
@@ -107,3 +106,8 @@ When I'm not coding, I enjoy:
 ## Contact
 
 If you have any questions or opportunities, please feel free to reach out to me at laxman.gupta1006@gmail.com 📩. 
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=laxman-gupta1006&show_icons=true" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxman-gupta1006". align="center"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=laxman-gupta1006" align="center" />
