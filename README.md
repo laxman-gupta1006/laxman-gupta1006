@@ -1,97 +1,92 @@
+<img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+
+
 # Hey there! 👋
 
 <!-- Circular Profile Image -->
 <p align="center">
   <img src="https://drive.google.com/uc?export=view&id=1BgM7VXb_SVjYSBKF00Pee9Ec5QzIy9O9" alt="Profile Photo" width="200" height="200" style="border-radius:50%">
 </p>
+  <p align="center">
+  
+<a href="https://www.linkedin.com/in/laxmangupta1006/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://twitter.com/engineerguptaji" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
+<a href="https://www.instagram.com/laxman.gupta1006/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-gupta1006&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-gupta1006" /> </p>
-<div style="display:flex">
-  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-  </p>
+<div style="display:flex;flex-direction:row;"> 
+  
+<img src="https://drive.google.com/file/d/1WtqfUu_04pMsocCphgwaaxwIDt1lM7mb/view?usp=sharing" alt="Profile Photo" width="500" height="350" >
 
-- 👨‍🎓 Final year undergraduate student in Computer Science and Engineering
-- 📚 Learning the ins and outs of DevOps technologies 🤖
-- 💻 Practicing competitive programming on platforms like LeetCode 🤔
-- 🌐 Contributing to open-source projects and building a portfolio
-- 🏆 Achieved a top 5% rank (4056) in the Graduate Aptitude Test in Engineering (GATE) exam 🤓
-- 📰 Keeping up-to-date on current events, both domestic and international 🌎
+## 👨🏻‍💻 &nbsp;About Me
+
+- 👨‍🎓 Studying Computer Science and Engineering
+- 🏆 Achieved All India Rank 4056 in GATE exam
+- 📚 Learning DevOps technologies
+- 💻 Practicing competitive programming on LeetCode
+- 🌐 Contributing to open-source projects, building portfolio
+- 📰 Keeping up-to-date on current events
 - 🌴 Watching travel vlogs to explore new cultures and destinations virtually 🛋️
-- 💰 Following financial markets to make smart investment decisions 💸
-- 😄 Enthusiastic learner, passionate about technology and problem-solving 💪
-- 👨‍💻 Eager to collaborate with like-minded individuals and make meaningful contributions 👥
-- 🎬 Loves watching movies and binge-watching TV series 🍿📺
-- 🍕 Pizza lover, always down for a slice 🍕🤤
+- 💰 Following financial markets for investments
+- 😄 Enthusiastic learner, tech problem-solver
+- 👨‍💻 Eager to collaborate, make meaningful contributions
+- 🎬 Loves movies, TV series
+- 🍕 Pizza lover, always down for a slice
 - 📫 How to reach me: laxman.gupta1006@gmail.com
+
+</div>?
+
+## 🛠 &nbsp; Technologies
+
+<div style="display:flex">
+  
+<img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)\
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+  
 </div>
 
+<br><br>
 
-## Technologies
-
-
-<div align="center">
-  <table style="width:100%;" border="0px">
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/nolan/64/react-native.png" alt="React Logo" width="64" height="64" />
-        <p>React</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/redux.png" alt="Redux Logo" width="64" height="64" />
-        <p>Redux</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/firebase.png" alt="Firebase Realtime Database Logo" width="64" height="64" />
-        <p>Firebase Realtime Database</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/docker.png" alt="Docker Logo" width="64" height="64" />
-        <p>Docker</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/django.png" alt="Django Logo" width="64" height="64" />
-        <p>Django</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/mysql-logo.png" alt="MySQL Logo" width="64" height="64" />
-        <p>MySQL</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/html-5.png" alt="HTML Logo" width="64" height="64" />
-        <p>HTML</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/kubernetes.png" alt="Kubernetes Logo" width="64" height="64" />
-        <p>Kubernetes</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/css3.png" alt="CSS Logo" width="64" height="64" />
-        <p>CSS</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/javascript.png" alt="JavaScript Logo" width="64" height="64" />
-        <p>JavaScript</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/python.png" alt="Python Logo" width="64" height="64" />
-        <p>Python</p>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png" alt="C++ Logo" width="64" height="64" />
-        <p>C++</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 ## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=laxman-gupta1006&show_icons=true" align="center"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=laxman-gupta1006" align="center" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laxman-gupta1006&show_icons=true" align="center"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=laxman-gupta1006" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxman-gupta1006". align="center"/>
 
 </p>
+
+
+
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
