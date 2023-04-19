@@ -1,28 +1,33 @@
 # Hey there! 👋
 
+<!-- Circular Profile Image -->
 <p align="center">
-  <h2>About Me</h2>
+  <img src="https://drive.google.com/uc?export=view&id=1BgM7VXb_SVjYSBKF00Pee9Ec5QzIy9O9" alt="Profile Photo" width="200" height="200" style="border-radius:50%">
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-gupta1006&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-gupta1006" /> </p>
+<div style="display:flex">
+  <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+  </p>
 
-<p align="center">
-  Hi there! My name is Laxman Gupta, and I'm just another Full Stack Web Developer based in India 🇮🇳. 
-</p>
+- 👨‍🎓 Final year undergraduate student in Computer Science and Engineering
+- 📚 Learning the ins and outs of DevOps technologies 🤖
+- 💻 Practicing competitive programming on platforms like LeetCode 🤔
+- 🌐 Contributing to open-source projects and building a portfolio
+- 🏆 Achieved a top 5% rank (4056) in the Graduate Aptitude Test in Engineering (GATE) exam 🤓
+- 📰 Keeping up-to-date on current events, both domestic and international 🌎
+- 🌴 Watching travel vlogs to explore new cultures and destinations virtually 🛋️
+- 💰 Following financial markets to make smart investment decisions 💸
+- 😄 Enthusiastic learner, passionate about technology and problem-solving 💪
+- 👨‍💻 Eager to collaborate with like-minded individuals and make meaningful contributions 👥
+- 🎬 Loves watching movies and binge-watching TV series 🍿📺
+- 🍕 Pizza lover, always down for a slice 🍕🤤
+- 📫 How to reach me: laxman.gupta1006@gmail.com
+</div>
 
-<p align="center">
-  I guess you could say that I'm "passionate" about using technology to solve problems and create "meaningful" experiences for users. Because let's be honest, who needs actual meaning when you can just slap some fancy graphics and animations on a page, right? 💁‍♂️
-</p>
-
-<p align="center">
-  They say that hard work 💪, dedication 🙌, and perseverance 🚀 are the "keys to success" in any endeavor, but let's face it, who needs natural talent or creativity when you can just brute force your way to success? 
-</p>
-
-<p align="center">
-  At the end of the day, I'm just another developer who's "committed" to delivering results that contribute to the growth and success of the organizations I work with. Because why settle for just doing a good job when you can make it sound like you're saving the world with every line of code, right? 😉
-</p>
 
 ## Technologies
 
-As a developer, I'm experienced in a range of technologies, including:
+
 <div align="center">
   <table style="width:100%;" border="0px">
     <tr>
@@ -83,31 +88,10 @@ As a developer, I'm experienced in a range of technologies, including:
 </div>
 
 
-
-I'm always excited to tackle new challenges and push my skills to the next level.
-
-## 🌱 Currently, I'm focused on three key areas:
-1.  I'm currently learning the ins and outs of DevOps technologies 🤖
-2. Problem-solving through competitive programming and practicing on platforms like LeetCode 🤔.
-3. Starting to contribute to open-source projects 🌐
-
-## Education
-
-In addition to my professional experience, I'm a graduate of Bangalore Technological Institute with a B.E in Computer Science and Engineering 🎓. I've also achieved a top 5%(4056) rank in the Graduate Aptitude Test in Engineering (GATE) exam 🏆, reflecting my strong academic and problem-solving skills.
-
-## Interests
-
-When I'm not coding, I enjoy:
-
-1. Keeping up-to-date on current events 📰, both domestic and international 🌎. Because who needs a break from the constant stream of negativity and chaos in the world? 😒
-2. Watching travel vlogs to explore new cultures and destinations 🌴. Why bother spending money on actual travel when you can just watch other people do it on YouTube? Plus, you get to experience all the fun of jet lag and delayed flights without ever leaving your couch! 🙃
-3. Following financial markets 💰.
-
-## Contact
-
-If you have any questions or opportunities, please feel free to reach out to me at laxman.gupta1006@gmail.com 📩. 
-
-
+## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=laxman-gupta1006&show_icons=true" align="center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxman-gupta1006". align="center"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=laxman-gupta1006" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxman-gupta1006". align="center"/>
+
+</p>
