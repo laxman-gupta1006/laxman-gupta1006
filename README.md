@@ -29,7 +29,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-gupta1006&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-gupta1006" /> </p>
 <div style="display:flex;"> 
   
-<img align="right" src="https://drive.google.com/file/d/1WtqfUu_04pMsocCphgwaaxwIDt1lM7mb/view?usp=sharing" alt="Profile Photo" width="500" height="350" >
+<img src="https://raw.githubusercontent.com/laxman-gupta1006/laxman-gupta1006/a900f6bcc98a1053915d8cf7008fdd78bc011d72/assets/programmer_v_02.png" alt="Programmer Image" width="500" height="350" align="right" >
 
 ## 👨🏻‍💻 &nbsp;About Me
 
@@ -47,7 +47,7 @@
 - 🍕 Pizza lover, always down for a slice
 - 📫 How to reach me: laxman.gupta1006@gmail.com
 
-</div>?
+</div>
 
 ## 🛠 &nbsp; Technologies
 
