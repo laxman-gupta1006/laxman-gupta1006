@@ -6,7 +6,8 @@
 
 <!-- Circular Profile Image -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1BgM7VXb_SVjYSBKF00Pee9Ec5QzIy9O9" alt="Profile Photo" width="200" height="200" style="border-radius:50%">
+<img src="https://raw.githubusercontent.com/laxman-gupta1006/laxman-gupta1006/main/assets/photo_2023-04-19_05-00-53.jpg" alt="My Profile Picture"
+ width="200" height="200" style="border-radius:50%">
 </p>
   <p align="center">
   
@@ -26,9 +27,9 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laxman-gupta1006&label=Profile%20views&color=0e75b6&style=flat" alt="laxman-gupta1006" /> </p>
-<div style="display:flex;flex-direction:row;"> 
+<div style="display:flex;"> 
   
-<img src="https://drive.google.com/file/d/1WtqfUu_04pMsocCphgwaaxwIDt1lM7mb/view?usp=sharing" alt="Profile Photo" width="500" height="350" >
+<img align="right" src="https://drive.google.com/file/d/1WtqfUu_04pMsocCphgwaaxwIDt1lM7mb/view?usp=sharing" alt="Profile Photo" width="500" height="350" >
 
 ## 👨🏻‍💻 &nbsp;About Me
 
