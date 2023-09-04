@@ -90,7 +90,7 @@
 
  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/laxman_gupta1006?theme=light&font=Candal&ext=contest)
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=laxman.gupta1006)
 
 </p>
 
