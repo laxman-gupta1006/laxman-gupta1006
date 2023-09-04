@@ -87,10 +87,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laxman-gupta1006&show_icons=true" align="center"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=laxman-gupta1006" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxman-gupta1006". align="center"/>
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=laxman.gupta1006)
  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/laxman_gupta1006?theme=light&font=Candal&ext=contest)
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=laxman.gupta1006)
+
 
 </p>
 
