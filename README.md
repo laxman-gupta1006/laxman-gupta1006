@@ -82,18 +82,26 @@
 
 
 
-## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **GitHub Analytics**
-<p align="center">
+## <img src="https://media0.giphy.com/media/YZuPLv7YPBzBRXuWnf/giphy.gif?cid=ecf05e47b1vr1pwvpcs8wfyoilhcn8g0nj1jyqo13mhb5dcg&rid=giphy.gif&ct=s" width="40"> &nbsp; **Analytics**
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laxman-gupta1006&show_icons=true" align="center"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=laxman-gupta1006" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxman-gupta1006". align="center"/>
- 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=laxman.gupta1006)
- 
-![LeetCode Stats](https://leetcard.jacoblin.cool/laxman_gupta1006?theme=light&font=Candal&ext=contest)
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxman-gupta1006". align="center"/>
+<img width="300em"  src="https://codeforces-readme-stats.vercel.app/api/card?username=laxman.gupta1006" align="center"/>
+<img width="300em"  src="https://leetcard.jacoblin.cool/laxman_gupta1006?theme=light&font=Candal&ext=contest" align="center"/>
+<div align="center">
+    <!-- First Row -->
+    <div style="display: inline-block; margin: 10px;">
+    </div>
+   <!-- Second Row -->
+    <div style="clear: both;"></div>
+    <div style="display: inline-block; margin: 10px;">
+        <img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=laxmangupta1006" alt="Laxman's geeksForgeGeeks stats" width="400" height="300"/>
+    </div>
+</div>
 
 
-</p>
+</div>
 
 
 
