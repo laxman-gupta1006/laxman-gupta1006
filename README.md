@@ -87,6 +87,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laxman-gupta1006&show_icons=true" align="center"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=laxman-gupta1006" align="center" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxman-gupta1006". align="center"/>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/laxman_gupta1006)](https://leetcode.com/laxman_gupta1006)
 
 </p>
 
