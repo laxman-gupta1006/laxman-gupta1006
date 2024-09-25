@@ -35,7 +35,7 @@
   
 <img src="https://raw.githubusercontent.com/laxman-gupta1006/laxman-gupta1006/eb269bde4fbf43864ae32d2807002feeac7b7d37/assets/programmer_v_02.jpg" alt="Programmer Image" width="400" height="350" align="right" >
  
-- 👨‍🎓 Studying Masters of Computer Science and Engineering at IIIT Delhi
+- 👨‍🎓 Studying Masters in Computer Science and Engineering at IIIT Delhi
 - 🏆 Achieved All India Rank 1795 in GATE CSE and 1790 in GATE Data Science and AI exam
 - 💻 Practicing competitive programming on LeetCode
 - 🌐 Contributing to open-source projects, building portfolio
