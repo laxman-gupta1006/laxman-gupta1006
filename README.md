@@ -46,7 +46,7 @@
 - 👨‍💻 Eager to collaborate, make meaningful contributions
 - 🎬 Loves movies, TV series
 - 🍕 Pizza lover, always down for a slice
-- 📫 How to reach me: laxman.gupta1006@gmail.com, laxman24051.iiitd.ac.in
+- 📫 How to reach me: laxman.gupta1006@gmail.com, laxman24051@iiitd.ac.in
 
 </div>
 
