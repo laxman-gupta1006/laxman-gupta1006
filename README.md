@@ -35,9 +35,8 @@
   
 <img src="https://raw.githubusercontent.com/laxman-gupta1006/laxman-gupta1006/eb269bde4fbf43864ae32d2807002feeac7b7d37/assets/programmer_v_02.jpg" alt="Programmer Image" width="400" height="350" align="right" >
  
-- 👨‍🎓 Studying Computer Science and Engineering
-- 🏆 Achieved All India Rank 4056 in GATE exam
-- 📚 Learning DevOps technologies
+- 👨‍🎓 Studying Masters of Computer Science and Engineering at IIIT Delhi
+- 🏆 Achieved All India Rank 1795 in GATE CSE and 1790 in GATE Data Science and AI exam
 - 💻 Practicing competitive programming on LeetCode
 - 🌐 Contributing to open-source projects, building portfolio
 - 📰 Keeping up-to-date on current events
@@ -47,7 +46,7 @@
 - 👨‍💻 Eager to collaborate, make meaningful contributions
 - 🎬 Loves movies, TV series
 - 🍕 Pizza lover, always down for a slice
-- 📫 How to reach me: laxman.gupta1006@gmail.com
+- 📫 How to reach me: laxman.gupta1006@gmail.com, laxman24051.iiitd.ac.in
 
 </div>
 
