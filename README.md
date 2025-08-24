@@ -4,7 +4,7 @@
 
 ### 🚀 Computer Science Graduate Student | Full-Stack Developer
 
-<img src="https://raw.githubusercontent.com/laxman-gupta1006/laxman-gupta1006/main/assets/photo_2023-04-19_05-00-53.jpg" alt="Laxman Gupta" width="150" height="150" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.3);">
+<img src="https://avatars.githubusercontent.com/u/65936360?s=400&u=7012445ad73068f1a7cef53bf0cbc0e6dce7a569&v=4" alt="Laxman Gupta" width="150" height="150" style="border-radius: 50%; border: 3px solid #58a6ff; box-shadow: 0 4px 8px rgba(88, 166, 255, 0.3);">
 
 ### 🌟 Connect with me:
 
